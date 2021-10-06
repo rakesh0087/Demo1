@@ -30,6 +30,7 @@ public class DemoGit {
 	public void m6()
 	{
 		System.out.println("This is M6");
+		System.out.println("This is M6-2");
 	}
 	
 	public static void main(String[] args)
