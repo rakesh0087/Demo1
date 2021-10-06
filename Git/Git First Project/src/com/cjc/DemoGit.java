@@ -15,6 +15,9 @@ public class DemoGit {
 	public static void main(String[] args)
 	{
 		System.out.println("This is Git First Project");
+		DemoGit d=new DemoGit();
+		d.m1();
+		d.m2();
 	}
 
 }
