@@ -14,7 +14,7 @@ public class DemoGit {
 	
 	public void m3()
 	{
-		Sysyem.out.prinln("This is M3")
+		System.out.prinln("This is M3");
 	}
 	
 	public static void main(String[] args)
