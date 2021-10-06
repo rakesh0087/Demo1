@@ -12,6 +12,11 @@ public class DemoGit {
 		System.out.println("This is M2");
 	}
 	
+	public void m3()
+	{
+		Sysyem.out.prinln("This is M3")
+	}
+	
 	public static void main(String[] args)
 	{
 		System.out.println("This is Git First Project");
