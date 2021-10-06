@@ -20,6 +20,7 @@ public class DemoGit {
 	public void m4()
 	{
 		System.out.println("This is M4");
+		System.out.println("This is M5");
 	}
 	
 	public void m5()
