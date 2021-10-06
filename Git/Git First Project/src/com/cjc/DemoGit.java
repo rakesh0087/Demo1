@@ -9,7 +9,7 @@ public class DemoGit {
 	
 	public void m2()
 	{
-		System.out.println("This is M2")
+		System.out.println("This is M2");
 	}
 	
 	public static void main(String[] args)
